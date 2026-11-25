@@ -1,0 +1,46 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "certificate_id": "m2_mod3_laplace_n1763_d5",
+  "mode": "mod3_laplace_ladder_and_smooth_cert",
+  "description": "Def. 4.1 mod-3-pinned degree-5 form, ladder, and 60000-smooth special-q=47 point",
+  "payload": {
+    "N": 1763,
+    "g0": 11,
+    "g1": 13,
+    "m_N": 1357,
+    "M_scale": 600,
+    "W_box": 60,
+    "h0_coeffs": [
+      1,
+      2,
+      0,
+      0,
+      0,
+      1
+    ],
+    "c_tilde": [
+      -52,
+      -59,
+      17,
+      0,
+      0,
+      0
+    ],
+    "ladder_Y": [
+      800,
+      300,
+      120,
+      47
+    ],
+    "special_q": 47,
+    "r_q": 4,
+    "box_point": [
+      51,
+      1
+    ],
+    "smooth_cap": 60000,
+    "layer_cake_z": 2,
+    "layer_cake_a": 2,
+    "layer_cake_W": 12
+  }
+}

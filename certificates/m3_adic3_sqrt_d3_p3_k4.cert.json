@@ -1,0 +1,110 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "certificate_id": "m3_adic3_sqrt_d3_p3_k4",
+  "mode": "adic3_newton_hensel_sqrt_cert",
+  "description": "Lem. 5.2 deterministic 3-adic Newton-Hensel sqrt in degree-3 Z_3[theta] (4 quadratic steps)",
+  "payload": {
+    "f_coeffs": [
+      4,
+      2,
+      3,
+      4
+    ],
+    "pairs": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        7,
+        2
+      ]
+    ],
+    "k_steps": 4,
+    "beta_hat": [
+      -408320,
+      -42528,
+      -24876
+    ],
+    "trace": [
+      {
+        "k": 0,
+        "exp3": 1,
+        "beta_mod": [
+          1
+        ],
+        "gamma_mod": [
+          2
+        ]
+      },
+      {
+        "k": 1,
+        "exp3": 2,
+        "beta_mod": [
+          1,
+          6
+        ],
+        "gamma_mod": [
+          2
+        ]
+      },
+      {
+        "k": 2,
+        "exp3": 4,
+        "beta_mod": [
+          1,
+          78,
+          72
+        ],
+        "gamma_mod": [
+          5,
+          6
+        ]
+      },
+      {
+        "k": 3,
+        "exp3": 8,
+        "beta_mod": [
+          5023,
+          3399,
+          1368
+        ],
+        "gamma_mod": [
+          41,
+          42,
+          9
+        ]
+      },
+      {
+        "k": 4,
+        "exp3": 16,
+        "beta_mod": [
+          42638401,
+          43004193,
+          43021845
+        ],
+        "gamma_mod": [
+          4496,
+          4821,
+          5355
+        ]
+      }
+    ]
+  }
+}

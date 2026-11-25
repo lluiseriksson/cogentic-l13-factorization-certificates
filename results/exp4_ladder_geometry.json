@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "depth_r": 1,
+      "half_sum_exact_num": 1,
+      "half_sum_exact_den": 2,
+      "half_sum_float": 0.5,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.642857
+    },
+    {
+      "depth_r": 2,
+      "half_sum_exact_num": 25,
+      "half_sum_exact_den": 32,
+      "half_sum_float": 0.78125,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.361607
+    },
+    {
+      "depth_r": 3,
+      "half_sum_exact_num": 481,
+      "half_sum_exact_den": 512,
+      "half_sum_float": 0.939453,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.203404
+    },
+    {
+      "depth_r": 4,
+      "half_sum_exact_num": 8425,
+      "half_sum_exact_den": 8192,
+      "half_sum_float": 1.028442,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.114415
+    },
+    {
+      "depth_r": 5,
+      "half_sum_exact_num": 141361,
+      "half_sum_exact_den": 131072,
+      "half_sum_float": 1.078499,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.064358
+    },
+    {
+      "depth_r": 6,
+      "half_sum_exact_num": 2320825,
+      "half_sum_exact_den": 2097152,
+      "half_sum_float": 1.106656,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.036202
+    },
+    {
+      "depth_r": 7,
+      "half_sum_exact_num": 37664641,
+      "half_sum_exact_den": 33554432,
+      "half_sum_float": 1.122494,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.020363
+    },
+    {
+      "depth_r": 8,
+      "half_sum_exact_num": 607417225,
+      "half_sum_exact_den": 536870912,
+      "half_sum_float": 1.131403,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.011454
+    },
+    {
+      "depth_r": 9,
+      "half_sum_exact_num": 9761722321,
+      "half_sum_exact_den": 8589934592,
+      "half_sum_float": 1.136414,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.006443
+    },
+    {
+      "depth_r": 10,
+      "half_sum_exact_num": 156574977625,
+      "half_sum_exact_den": 137438953472,
+      "half_sum_float": 1.139233,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.003624
+    },
+    {
+      "depth_r": 11,
+      "half_sum_exact_num": 2508686426401,
+      "half_sum_exact_den": 2199023255552,
+      "half_sum_float": 1.140819,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.002039
+    },
+    {
+      "depth_r": 12,
+      "half_sum_exact_num": 40170363882025,
+      "half_sum_exact_den": 35184372088832,
+      "half_sum_float": 1.14171,
+      "asymptotic_8_7": 1.142857,
+      "gap_to_8_7": 0.001147
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+name = "cogentic_l13_factorization"
+version = "0.1.0"
+defaultTargets = ["CogenticL13Factorization"]
+
+[[lean_lib]]
+name = "CogenticL13Factorization"
+moreLeanArgs = ["-j", "1"]
+
+[[lean_lib]]
+name = "AuditAxioms"
+moreLeanArgs = ["-j", "1"]

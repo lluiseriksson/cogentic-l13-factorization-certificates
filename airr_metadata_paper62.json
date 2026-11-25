@@ -1,0 +1,22 @@
+{
+  "title": "Constructive Lean 4 Kernel and Exact Zero-Float Certificates for Unconditional L_N[1/3, 105] Las Vegas Integer Factorization",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "A November 25, 2026 companion preprint from Google Research's Cogentic framework proposes the first unconditional uniform zero-error Las Vegas integer factorization algorithm running in expected time L_N[1/3, 105] and deterministic workspace L_N[1/3, 40], aiming to bridge the 34-year gap between Lenstra-Pomerance's unconditional L_N[1/2, 1] bound and the heuristic L_N[1/3, c] Number Field Sieve. Rather than assuming peer-reviewed validation of its analytic sieve pillars, we deliver an independent, explicitly scoped, zero-floating-point verification companion for its discrete lattice, mod-3 Laplace ensemble, 3-adic Newton-Hensel square-root, Dixon splitting, and strong-induction mechanisms. Layer 1 (CogenticL13Factorization.lean) proves 18 standalone constructive Lean 4.35.0 algebraic, lattice, and arithmetic sub-lemmas (zero sorry, zero axiom, zero Classical.choice, zero warnings; 4 zero-axiom none and 14 [propext, Quot.sound]). Layer 2 (L13FACT-COGENTIC-CERT-1.0) is a pure-stdlib Python int/Fraction 4-mode auditor certifying 16 canonical finite witnesses in 0.081-0.609 ms and rejecting 68/68 live adversarial forgeries with exact branch assertions (74/74 pytest checks).",
+  "primary_subject": "Mathematics",
+  "secondary_subjects": ["Computer and information sciences"],
+  "keywords": [
+    "integer factorization",
+    "General Number Field Sieve",
+    "L_N[1/3, 105] Las Vegas algorithm",
+    "Lean 4 formal verification",
+    "Lagrange-Gauss lattice reduction",
+    "3-adic Newton-Hensel square root",
+    "discrete Laplace polynomial ensemble",
+    "Dixon congruence of squares"
+  ],
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repo_url": "https://github.com/lluiseriksson/cogentic-l13-factorization-certificates",
+  "release_tag": "v1.0.0",
+  "pdf_relpath": "paper/main.pdf"
+}

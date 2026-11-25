@@ -1,0 +1,183 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "certificate_id": "m4_dixon_split_n1763_41x43",
+  "mode": "dixon_character_and_induction_split_cert",
+  "description": "End-to-end two-field blinded Dixon split N=1763=41*43 via Adleman characters & 3-adic Hensel roots",
+  "payload": {
+    "N": 1763,
+    "g0": 11,
+    "g1": 13,
+    "m_N": 1357,
+    "f1_coeffs": [
+      -173,
+      -178,
+      96,
+      781
+    ],
+    "f2_coeffs": [
+      -172,
+      -178,
+      -57,
+      784
+    ],
+    "factor_base_primes": [
+      2,
+      3,
+      5
+    ],
+    "characters_side1": [
+      [
+        61,
+        27
+      ],
+      [
+        71,
+        46
+      ],
+      [
+        79,
+        28
+      ]
+    ],
+    "characters_side2": [
+      [
+        103,
+        37
+      ],
+      [
+        109,
+        43
+      ],
+      [
+        113,
+        33
+      ]
+    ],
+    "relations": [
+      {
+        "z_m": 1346,
+        "w_m": 1115,
+        "e1": 1,
+        "e2": 0,
+        "eg": 0,
+        "u_fb": [
+          0,
+          0,
+          1
+        ],
+        "side1_factors": [
+          [
+            2,
+            1,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            3,
+            1,
+            -1
+          ]
+        ]
+      },
+      {
+        "z_m": 339,
+        "w_m": 326,
+        "e1": 1,
+        "e2": 2,
+        "eg": 0,
+        "u_fb": [
+          0,
+          0,
+          1
+        ],
+        "side1_factors": [
+          [
+            2,
+            1,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            3,
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "z_m": 47,
+        "w_m": 446,
+        "e1": 0,
+        "e2": 1,
+        "eg": 1,
+        "u_fb": [
+          1,
+          1,
+          0
+        ],
+        "side1_factors": [
+          [
+            3,
+            2,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            4,
+            3,
+            1
+          ]
+        ]
+      },
+      {
+        "z_m": 539,
+        "w_m": 1389,
+        "e1": 1,
+        "e2": 1,
+        "eg": 1,
+        "u_fb": [
+          0,
+          1,
+          0
+        ],
+        "side1_factors": [
+          [
+            4,
+            3,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            3,
+            2,
+            1
+          ]
+        ]
+      }
+    ],
+    "nullspace_mask": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "beta1_hat": [
+      533715875,
+      -21868,
+      -4782
+    ],
+    "beta2_hat": [
+      -645388800,
+      -547232,
+      6999
+    ],
+    "k_steps_sqrt": 5,
+    "Y_val": 1225,
+    "Z_val": 1440,
+    "split_divisor": 43
+  }
+}

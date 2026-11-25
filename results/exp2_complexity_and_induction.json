@@ -1,0 +1,110 @@
+{
+  "points": [
+    {
+      "log2_N": 256,
+      "log2_ops_L13_105": 2547.99,
+      "log2_ops_L13_heur_GNFS": 46.66,
+      "log2_ops_L12_LP92": 43.73,
+      "log2_ops_det_3_4": 210.42
+    },
+    {
+      "log2_N": 512,
+      "log2_ops_L13_105": 3490.68,
+      "log2_ops_L13_heur_GNFS": 63.93,
+      "log2_ops_L12_LP92": 65.86,
+      "log2_ops_det_3_4": 353.89
+    },
+    {
+      "log2_N": 1024,
+      "log2_ops_L13_105": 4737.62,
+      "log2_ops_L13_heur_GNFS": 86.77,
+      "log2_ops_L12_LP92": 98.48,
+      "log2_ops_det_3_4": 595.17
+    },
+    {
+      "log2_N": 2048,
+      "log2_ops_L13_105": 6382.11,
+      "log2_ops_L13_heur_GNFS": 116.88,
+      "log2_ops_L12_LP92": 146.44,
+      "log2_ops_det_3_4": 1000.95
+    },
+    {
+      "log2_N": 4096,
+      "log2_ops_L13_105": 8545.08,
+      "log2_ops_L13_heur_GNFS": 156.5,
+      "log2_ops_L12_LP92": 216.76,
+      "log2_ops_det_3_4": 1683.39
+    },
+    {
+      "log2_N": 8192,
+      "log2_ops_L13_105": 11383.06,
+      "log2_ops_L13_heur_GNFS": 208.47,
+      "log2_ops_L12_LP92": 319.63,
+      "log2_ops_det_3_4": 2831.11
+    },
+    {
+      "log2_N": 16384,
+      "log2_ops_L13_105": 15098.51,
+      "log2_ops_L13_heur_GNFS": 276.52,
+      "log2_ops_L12_LP92": 469.8,
+      "log2_ops_det_3_4": 4761.35
+    },
+    {
+      "log2_N": 65536,
+      "log2_ops_L13_105": 26284.47,
+      "log2_ops_L13_heur_GNFS": 481.38,
+      "log2_ops_L12_LP92": 1006.94,
+      "log2_ops_det_3_4": 13467.12
+    },
+    {
+      "log2_N": 262144,
+      "log2_ops_L13_105": 45246.5,
+      "log2_ops_L13_heur_GNFS": 828.66,
+      "log2_ops_L12_LP92": 2140.09,
+      "log2_ops_det_3_4": 38090.78
+    },
+    {
+      "log2_N": 1048576,
+      "log2_ops_L13_105": 77206.09,
+      "log2_ops_L13_heur_GNFS": 1413.97,
+      "log2_ops_L12_LP92": 4518.53,
+      "log2_ops_det_3_4": 107736.99
+    },
+    {
+      "log2_N": 4194304,
+      "log2_ops_L13_105": 130811.9,
+      "log2_ops_L13_heur_GNFS": 2395.73,
+      "log2_ops_L12_LP92": 9489.83,
+      "log2_ops_det_3_4": 304726.22
+    },
+    {
+      "log2_N": 16777216,
+      "log2_ops_L13_105": 220353.46,
+      "log2_ops_L13_heur_GNFS": 4035.61,
+      "log2_ops_L12_LP92": 19843.94,
+      "log2_ops_det_3_4": 861895.89
+    },
+    {
+      "log2_N": 67108864,
+      "log2_ops_L13_105": 369387.83,
+      "log2_ops_L13_heur_GNFS": 6765.07,
+      "log2_ops_L12_LP92": 41344.23,
+      "log2_ops_det_3_4": 2437809.72
+    }
+  ],
+  "strong_induction_runtime": {
+    "c_target": 105,
+    "c_ind": 104,
+    "mcap_exp": 21.15,
+    "half_sqrt_factor_exact": 82.544855,
+    "sum_bound": 103.72,
+    "tenth_root_factor_exact": 48.272524,
+    "descent_tree_total": 71.6
+  },
+  "strong_induction_workspace": {
+    "c_target": 40,
+    "c_ind": 38,
+    "base_space_exp": 37.4,
+    "half_sqrt_factor_exact": 30.16062
+  }
+}

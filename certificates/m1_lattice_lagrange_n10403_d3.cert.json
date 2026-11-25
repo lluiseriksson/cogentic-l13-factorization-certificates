@@ -1,0 +1,68 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "certificate_id": "m1_lattice_lagrange_n10403_d3",
+  "mode": "mod_n_lattice_and_lagrange_split_cert",
+  "description": "Prop. 2.2 3D mod-N LLL lattice and Prop. 2.3 smooth ratio split for N=10403",
+  "payload": {
+    "N": 10403,
+    "G": 50,
+    "g0": 79,
+    "g1": 83,
+    "m_N": 1505,
+    "n_dim": 3,
+    "B_lat": [
+      [
+        -8,
+        7,
+        -34
+      ],
+      [
+        -10,
+        12,
+        17
+      ],
+      [
+        -9,
+        -12,
+        -2
+      ]
+    ],
+    "A_adj": [
+      [
+        -180,
+        -422,
+        -527
+      ],
+      [
+        173,
+        290,
+        -476
+      ],
+      [
+        -228,
+        159,
+        26
+      ]
+    ],
+    "z_val": 1982,
+    "s_val": 8934,
+    "t_val": 17,
+    "v1": [
+      10,
+      21
+    ],
+    "v2": [
+      403,
+      -194
+    ],
+    "A_primes": [
+      2,
+      5
+    ],
+    "B_primes": [
+      3,
+      7
+    ],
+    "Q_bound": 7
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "count": 16,
+  "certificates": [
+    {
+      "certificate_id": "m1_lattice_lagrange_n10403_d3",
+      "mode": "mod_n_lattice_and_lagrange_split_cert",
+      "mean_ms": 0.118,
+      "summary": {
+        "mode": "mod_n_lattice_and_lagrange_split_cert",
+        "N": 10403,
+        "n_dim": 3,
+        "r0": 2,
+        "max_col_sq": 1449,
+        "lambda1_sq": 541,
+        "x1": 10,
+        "y1": 21,
+        "certificate_id": "m1_lattice_lagrange_n10403_d3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m1_lattice_lagrange_n64507_d3",
+      "mode": "mod_n_lattice_and_lagrange_split_cert",
+      "mean_ms": 0.118,
+      "summary": {
+        "mode": "mod_n_lattice_and_lagrange_split_cert",
+        "N": 64507,
+        "n_dim": 3,
+        "r0": 2,
+        "max_col_sq": 4833,
+        "lambda1_sq": 2314,
+        "x1": 33,
+        "y1": 35,
+        "certificate_id": "m1_lattice_lagrange_n64507_d3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m1_lattice_lagrange_n256027_d4",
+      "mode": "mod_n_lattice_and_lagrange_split_cert",
+      "mean_ms": 0.192,
+      "summary": {
+        "mode": "mod_n_lattice_and_lagrange_split_cert",
+        "N": 256027,
+        "n_dim": 4,
+        "r0": 2,
+        "max_col_sq": 1098,
+        "lambda1_sq": 3701,
+        "x1": 26,
+        "y1": 55,
+        "certificate_id": "m1_lattice_lagrange_n256027_d4",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m1_lattice_lagrange_n100160063_d4",
+      "mode": "mod_n_lattice_and_lagrange_split_cert",
+      "mean_ms": 0.196,
+      "summary": {
+        "mode": "mod_n_lattice_and_lagrange_split_cert",
+        "N": 100160063,
+        "n_dim": 4,
+        "r0": 3,
+        "max_col_sq": 27798,
+        "lambda1_sq": 240685,
+        "x1": 238,
+        "y1": 429,
+        "certificate_id": "m1_lattice_lagrange_n100160063_d4",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m2_mod3_laplace_n323_d3",
+      "mode": "mod3_laplace_ladder_and_smooth_cert",
+      "mean_ms": 0.085,
+      "summary": {
+        "mode": "mod3_laplace_ladder_and_smooth_cert",
+        "N": 323,
+        "degree": 3,
+        "special_q": 23,
+        "cofactor": 397331,
+        "max_prime_factor": 881,
+        "ladder_len": 4,
+        "certificate_id": "m2_mod3_laplace_n323_d3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m2_mod3_laplace_n1763_d3",
+      "mode": "mod3_laplace_ladder_and_smooth_cert",
+      "mean_ms": 0.081,
+      "summary": {
+        "mode": "mod3_laplace_ladder_and_smooth_cert",
+        "N": 1763,
+        "degree": 3,
+        "special_q": 29,
+        "cofactor": 3777163,
+        "max_prime_factor": 233,
+        "ladder_len": 4,
+        "certificate_id": "m2_mod3_laplace_n1763_d3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m2_mod3_laplace_n10403_d3",
+      "mode": "mod3_laplace_ladder_and_smooth_cert",
+      "mean_ms": 0.095,
+      "summary": {
+        "mode": "mod3_laplace_ladder_and_smooth_cert",
+        "N": 10403,
+        "degree": 3,
+        "special_q": 37,
+        "cofactor": 6960805,
+        "max_prime_factor": 3989,
+        "ladder_len": 4,
+        "certificate_id": "m2_mod3_laplace_n10403_d3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m2_mod3_laplace_n1763_d5",
+      "mode": "mod3_laplace_ladder_and_smooth_cert",
+      "mean_ms": 0.198,
+      "summary": {
+        "mode": "mod3_laplace_ladder_and_smooth_cert",
+        "N": 1763,
+        "degree": 5,
+        "special_q": 47,
+        "cofactor": 5733294566,
+        "max_prime_factor": 56489,
+        "ladder_len": 4,
+        "certificate_id": "m2_mod3_laplace_n1763_d5",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m3_adic3_sqrt_d3_p2_k3",
+      "mode": "adic3_newton_hensel_sqrt_cert",
+      "mean_ms": 0.219,
+      "summary": {
+        "mode": "adic3_newton_hensel_sqrt_cert",
+        "degree": 3,
+        "num_pairs": 4,
+        "k_steps": 3,
+        "max_abs_coeff": 27,
+        "certificate_id": "m3_adic3_sqrt_d3_p2_k3",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m3_adic3_sqrt_d3_p3_k4",
+      "mode": "adic3_newton_hensel_sqrt_cert",
+      "mean_ms": 0.209,
+      "summary": {
+        "mode": "adic3_newton_hensel_sqrt_cert",
+        "degree": 3,
+        "num_pairs": 6,
+        "k_steps": 4,
+        "max_abs_coeff": 408320,
+        "certificate_id": "m3_adic3_sqrt_d3_p3_k4",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m3_adic3_sqrt_d5_p2_k4",
+      "mode": "adic3_newton_hensel_sqrt_cert",
+      "mean_ms": 0.45,
+      "summary": {
+        "mode": "adic3_newton_hensel_sqrt_cert",
+        "degree": 5,
+        "num_pairs": 4,
+        "k_steps": 4,
+        "max_abs_coeff": 47,
+        "certificate_id": "m3_adic3_sqrt_d5_p2_k4",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m3_adic3_sqrt_d5_p3_k5",
+      "mode": "adic3_newton_hensel_sqrt_cert",
+      "mean_ms": 0.547,
+      "summary": {
+        "mode": "adic3_newton_hensel_sqrt_cert",
+        "degree": 5,
+        "num_pairs": 6,
+        "k_steps": 5,
+        "max_abs_coeff": 1761280,
+        "certificate_id": "m3_adic3_sqrt_d5_p3_k5",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m4_dixon_split_n323_17x19",
+      "mode": "dixon_character_and_induction_split_cert",
+      "mean_ms": 0.606,
+      "summary": {
+        "mode": "dixon_character_and_induction_split_cert",
+        "N": 323,
+        "degree": 3,
+        "R_tot": 4,
+        "selected_relations": 2,
+        "split_divisor": 19,
+        "cofactor": 17,
+        "certificate_id": "m4_dixon_split_n323_17x19",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m4_dixon_split_n1763_41x43",
+      "mode": "dixon_character_and_induction_split_cert",
+      "mean_ms": 0.609,
+      "summary": {
+        "mode": "dixon_character_and_induction_split_cert",
+        "N": 1763,
+        "degree": 3,
+        "R_tot": 4,
+        "selected_relations": 2,
+        "split_divisor": 43,
+        "cofactor": 41,
+        "certificate_id": "m4_dixon_split_n1763_41x43",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m4_dixon_split_n10403_101x103",
+      "mode": "dixon_character_and_induction_split_cert",
+      "mean_ms": 0.57,
+      "summary": {
+        "mode": "dixon_character_and_induction_split_cert",
+        "N": 10403,
+        "degree": 3,
+        "R_tot": 3,
+        "selected_relations": 2,
+        "split_divisor": 103,
+        "cofactor": 101,
+        "certificate_id": "m4_dixon_split_n10403_101x103",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    },
+    {
+      "certificate_id": "m4_dixon_split_n64507_251x257",
+      "mode": "dixon_character_and_induction_split_cert",
+      "mean_ms": 0.607,
+      "summary": {
+        "mode": "dixon_character_and_induction_split_cert",
+        "N": 64507,
+        "degree": 3,
+        "R_tot": 4,
+        "selected_relations": 2,
+        "split_divisor": 257,
+        "cofactor": 251,
+        "certificate_id": "m4_dixon_split_n64507_251x257",
+        "protocol": "L13FACT-COGENTIC-CERT-1.0"
+      }
+    }
+  ]
+}

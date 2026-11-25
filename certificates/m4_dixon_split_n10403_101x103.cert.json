@@ -1,0 +1,156 @@
+{
+  "protocol": "L13FACT-COGENTIC-CERT-1.0",
+  "certificate_id": "m4_dixon_split_n10403_101x103",
+  "mode": "dixon_character_and_induction_split_cert",
+  "description": "End-to-end two-field blinded Dixon split N=10403=101*103 via Adleman characters & 3-adic Hensel roots",
+  "payload": {
+    "N": 10403,
+    "g0": 13,
+    "g1": 17,
+    "m_N": 7956,
+    "f1_coeffs": [
+      -134,
+      -238,
+      -66,
+      3241
+    ],
+    "f2_coeffs": [
+      -187,
+      -238,
+      102,
+      3244
+    ],
+    "factor_base_primes": [
+      2,
+      3,
+      5
+    ],
+    "characters_side1": [
+      [
+        59,
+        40
+      ],
+      [
+        61,
+        25
+      ],
+      [
+        67,
+        0
+      ]
+    ],
+    "characters_side2": [
+      [
+        107,
+        16
+      ],
+      [
+        113,
+        18
+      ],
+      [
+        127,
+        69
+      ]
+    ],
+    "relations": [
+      {
+        "z_m": 5641,
+        "w_m": 8507,
+        "e1": 1,
+        "e2": 0,
+        "eg": 0,
+        "u_fb": [
+          0,
+          0,
+          0
+        ],
+        "side1_factors": [
+          [
+            2,
+            1,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            3,
+            1,
+            -1
+          ]
+        ]
+      },
+      {
+        "z_m": 6460,
+        "w_m": 5167,
+        "e1": 1,
+        "e2": 2,
+        "eg": 0,
+        "u_fb": [
+          0,
+          0,
+          0
+        ],
+        "side1_factors": [
+          [
+            2,
+            1,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            3,
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "z_m": 2874,
+        "w_m": 10297,
+        "e1": 0,
+        "e2": 1,
+        "eg": 0,
+        "u_fb": [
+          0,
+          1,
+          0
+        ],
+        "side1_factors": [
+          [
+            3,
+            2,
+            1
+          ]
+        ],
+        "side2_factors": [
+          [
+            4,
+            1,
+            1
+          ]
+        ]
+      }
+    ],
+    "nullspace_mask": [
+      1,
+      1,
+      0
+    ],
+    "beta1_hat": [
+      9222583118,
+      2398340,
+      -19380
+    ],
+    "beta2_hat": [
+      -13417508400,
+      441184,
+      29298
+    ],
+    "k_steps_sqrt": 5,
+    "Y_val": 3374,
+    "Z_val": 9554,
+    "split_divisor": 103
+  }
+}

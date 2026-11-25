@@ -1,0 +1,124 @@
+{
+  "rows": [
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 1,
+      "modulus_3_exp": 2,
+      "precision_bits": 3.17,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.084
+    },
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 2,
+      "modulus_3_exp": 4,
+      "precision_bits": 6.34,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.083
+    },
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 3,
+      "modulus_3_exp": 8,
+      "precision_bits": 12.68,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.094
+    },
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 4,
+      "modulus_3_exp": 16,
+      "precision_bits": 25.36,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 19,
+      "time_ms": 0.111
+    },
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 5,
+      "modulus_3_exp": 32,
+      "precision_bits": 50.72,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 19,
+      "time_ms": 0.132
+    },
+    {
+      "family": "d=3 (h3_a)",
+      "degree": 3,
+      "k_steps": 6,
+      "modulus_3_exp": 64,
+      "precision_bits": 101.44,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 19,
+      "time_ms": 0.159
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 1,
+      "modulus_3_exp": 2,
+      "precision_bits": 3.17,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.217
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 2,
+      "modulus_3_exp": 4,
+      "precision_bits": 6.34,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.241
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 3,
+      "modulus_3_exp": 8,
+      "precision_bits": 12.68,
+      "exact_global_root_recovered": false,
+      "root_max_coeff_bits": 0,
+      "time_ms": 0.271
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 4,
+      "modulus_3_exp": 16,
+      "precision_bits": 25.36,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 21,
+      "time_ms": 0.312
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 5,
+      "modulus_3_exp": 32,
+      "precision_bits": 50.72,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 21,
+      "time_ms": 0.342
+    },
+    {
+      "family": "d=5 (h5_b)",
+      "degree": 5,
+      "k_steps": 6,
+      "modulus_3_exp": 64,
+      "precision_bits": 101.44,
+      "exact_global_root_recovered": true,
+      "root_max_coeff_bits": 21,
+      "time_ms": 0.393
+    }
+  ]
+}
